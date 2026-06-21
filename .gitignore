@@ -1,0 +1,5 @@
+node_modules/
+hacktrack.db
+hacktrack.db-wal
+hacktrack.db-shm
+.env.local
